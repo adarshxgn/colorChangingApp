@@ -17,11 +17,11 @@ export const App = () => {
         <div id='canvas' className='border rounded' style={{height:"80vh",width:"50rem", transition:"ease-in",transitionDuration:"1s"}}>
         </div>
         <><div className='d-flex flex-column'>
-        <img  onClick={()=>(click("#F0E68C"))} style={{width:"80px"}} src="./src/assets/colorcircle.png" className='btn'  alt="" />
-      <img  onClick={()=>(click("#98FB98"))} style={{width:"80px"}} src="./src/assets/colorcircle.png" className='btn'  alt="" />
-      <img  onClick={()=>(click("#9370DB"))} style={{width:"80px"}} src="./src/assets/colorcircle.png" className='btn'  alt="" />
-      <img  onClick={()=>(click("#D8BFD8"))} style={{width:"80px"}} src="./src/assets/colorcircle.png" className='btn'  alt="" />
-      <img  onClick={()=>(click("#FF7F50"))} style={{width:"80px"}} src="./src/assets/colorcircle.png" className='btn'  alt="" />
+        <img  onClick={()=>(click("#F0E68C"))} style={{width:"80px"}} src="https://basecreative.co.uk/wp-content/uploads/Website%202020%20old%20image%20upload/CircleBase-6-segments-tints-1024x1024.png" className='btn'  alt="" />
+      <img  onClick={()=>(click("#98FB98"))} style={{width:"80px"}} src="https://basecreative.co.uk/wp-content/uploads/Website%202020%20old%20image%20upload/CircleBase-6-segments-tints-1024x1024.png" className='btn'  alt="" />
+      <img  onClick={()=>(click("#9370DB"))} style={{width:"80px"}} src="https://basecreative.co.uk/wp-content/uploads/Website%202020%20old%20image%20upload/CircleBase-6-segments-tints-1024x1024.png" className='btn'  alt="" />
+      <img  onClick={()=>(click("#D8BFD8"))} style={{width:"80px"}} src="https://basecreative.co.uk/wp-content/uploads/Website%202020%20old%20image%20upload/CircleBase-6-segments-tints-1024x1024.png" className='btn'  alt="" />
+      <img  onClick={()=>(click("#FF7F50"))} style={{width:"80px"}} src="https://basecreative.co.uk/wp-content/uploads/Website%202020%20old%20image%20upload/CircleBase-6-segments-tints-1024x1024.png" className='btn'  alt="" />
           </div></>
       </div>
     </div>
